@@ -5,10 +5,10 @@ I am remaking making this game. I first made it in c++. It was sloppy and not th
 
 At the moment I am working on the graphics of the game here are the files of my code.
 
-To run the game you need to
-  1. Python Compiler
+To run the game you need:
+  1. A Python Compiler
   2. Pygame
-        - Once python is installed, to get pygame run the command:
+        - Once python is installed, to get pygame run the command in cmd:
         - pip install pygame
   3. Download the zip file and run the main.py script with all the files in the same folder.
         - For example if downloaded to desktop do:
