@@ -30,7 +30,7 @@ class Wizard(Character):
         print(self.name + " has healed " + str(10) + " health" )
         self.health += 10
 
-    def OutOfStamina(self):
+    def outOfstamina(self):
         if self.s3 <=0:
             return True
         else:
