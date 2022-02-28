@@ -1,5 +1,5 @@
 # UFC-RPG-Game
-A rpg made in Python using Pygame and AWS
+A rpg made in Python using Pygame
 
 I am remaking this game. I first made it in c++. It was sloppy and not that impressive. It was for a class so I did not have the adequate time to make it as polished as I would have liked. So I am remaking it in python. The game will no longer only use the terminal for inputs but have a display with inputs from a mouse. This is done by using pygame.
 
